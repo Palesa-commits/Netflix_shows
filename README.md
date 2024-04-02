@@ -1,5 +1,6 @@
 # Netflix_shows
 
+![](netflix.webp)
 
 **Project Description: Entertainment Database Management System**
 
